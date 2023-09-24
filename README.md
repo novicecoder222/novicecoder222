@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @novicecoder222
 - 👀 I’m interested in analytics
-- 🌱 I’m currently learning coursera/youtube 
+- 🌱 I’m currently learning sql, python data focused libraries i.e. numpy, pandas, etc. 
 - 💞️ I’m looking to collaborate on data analytics ceneterd projects
 - 📫 How to reach me. msg me right here
 
